@@ -1,4 +1,4 @@
-# 🚀 SQL CoffeeShop Case Study ☕☕
+<h1 align="center"> 🚀 SQL CoffeeShop Case Study ☕☕ </h1>
 
 ## 🎯 Project Overview
 
