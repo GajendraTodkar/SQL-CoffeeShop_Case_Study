@@ -48,6 +48,17 @@ Designed to demonstrate real-world data analysis and forecasting
 
   ---
 
+  ## 🌐 Important Links & Tools:
+
+Everything is for Free!
+
+- **[Datasets](datasets/):** Access to the project dataset (csv files).  <br>
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.  <br>
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
+
+
+---
+
   ## ☕ Stay Connected
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
